@@ -1,0 +1,31 @@
+@font-face {
+  font-family: "MapoGoldenPier";
+  src: url("./MapoGoldenPierA.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Allura";
+  src: url("./AlluraRegular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "SPRAT Condensed";
+  src:
+    url("./SpratCondensed.woff2?v=20260704") format("woff2"),
+    url("./SpratCondensed.woff?v=20260704") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Newtext Bk BT";
+  src: url("./NewtextBkBT.woff2?v=20260704") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}

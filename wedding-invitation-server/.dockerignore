@@ -1,0 +1,4 @@
+.env
+*.db
+sql.db
+wedding-invitation-server
